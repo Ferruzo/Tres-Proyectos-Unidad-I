@@ -1,0 +1,108 @@
+body {
+	font-family: Montserrat;
+}
+
+header {
+	padding: 50px;
+	text-align: center;
+	color: #192951;
+}
+
+ul {
+	list-style-type: none;
+	float: right;
+	margin: 30px 90px 0 0;
+}
+
+li {
+	float: left;
+	margin-right: 100px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.a_nav {
+	color: #808083;
+}
+
+
+/*Aquí termina el header*/
+
+#poema {
+	background-image: url("../img/textura_2.jpg");
+	padding: 150px;
+	margin: -10px 0;
+}
+
+.poema_texto {
+	font-size: 40px;
+	font-style: italic;
+	text-align: center;
+	margin-top: -50px;
+}
+
+/*Aquí, termina el poema*/
+.blue_bg {
+	background-color: #192951;
+	padding: 20px;
+	color: #C3C6C5;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.blue_bg:hover {
+	background-color: white;
+	color: #192951;
+	border: 1px solid #192951;
+}
+
+#contactanos {
+	background-image: url("../img/shoes_!.jpg");
+	background-size: 900px;
+	background-repeat: no-repeat;
+	background-position: 350px 10px;
+	padding: 50px;
+	height: 550px;
+}
+
+.contactanos_hbox {
+	font-size: 30px;
+	color: #192951;
+	margin-bottom: 40px;
+}
+
+.entradas {
+	width: 400px;
+	padding: 10px 0 10px 40px;
+}
+
+.contactanos_imgs {
+	height: 20px;
+	width: 20px;
+	position: relative;
+	top: -30px;
+	left: 10px;
+}
+
+.mensaje_box {
+	padding: 10px 0 100px 40px;
+}
+
+.mensaje_img {
+	position: relative;
+	top: -120px;
+}
+
+.enviar_button {
+	width: 400px;
+}
+
+/*Aquí, termina la caja de Contáctanos*/
+
+footer {
+	background-color: #192951;
+	padding: 30px 0 15px 20px;
+	color: white;
+}

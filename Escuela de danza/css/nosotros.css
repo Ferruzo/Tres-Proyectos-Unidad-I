@@ -1,0 +1,66 @@
+#sobre_nosotros {
+	background-image: url("../img/dance_7.jpg");
+	padding: 100px;
+	background-position: 0 -100px;
+	background-size: 1800px;
+}
+
+.sobre_nosotros_div {
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	padding: 50px;
+	text-align: center;
+	margin-left: 240px;
+}
+
+.nosotros_heading {
+	margin: 10px 0;
+}
+
+#pilares {
+	background-image: url("../img/cubes.png");
+	padding: 100px;
+	text-align: center;
+	color: #787777;
+}
+
+.pilares_boxes {
+	margin-left: 70px;
+}
+
+hr {
+	margin: 20px 0;
+}
+
+#instructores {
+	padding: 100px;
+}
+
+.instructores_heading {
+	text-align: center;
+	margin-bottom: 70px;
+}
+
+.instructores_img {
+	height: 170px;
+	width: 200px;
+}
+
+.name_ins {
+	margin: 10px 0;
+}
+
+.instructores_p {
+	font-size: 14px;
+}
+
+.ins_row2 {
+	margin-top: 100px;
+}
+
+#poema_nosotros {
+	background-image: url("../img/cubes.png");
+	padding: 150px;
+	margin: -10px 0;
+}

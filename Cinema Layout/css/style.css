@@ -1,0 +1,221 @@
+body {
+	font-family: 'Roboto';
+	color: #D0D0D0;
+}
+
+p, pre {
+	font-size: 11px;
+}
+
+a {
+	text-decoration: none;
+}
+
+header {
+	background-color: #F5F5F5;
+}
+
+.logo {
+	width: 310px;
+	height: 50px;
+	margin-left: 40px;
+}
+
+.movie_theater {
+	font-weight: normal;
+	margin: 17px 0 0 30px;
+}
+
+#search {
+	margin-top: 3px;
+	height: 35px;
+	background-color: #F5F5F5;
+	border: 1px solid #B5B5B5;
+	padding: 0 0 0 7px;
+}
+
+.search_icon {
+	position: relative;
+	left: 170px;
+	color: #B5B5B5;
+}
+
+#banner {
+	background-image: url('../img/banner.jpg');
+	height: 450px;
+	background-size: 100%;
+	margin-left: 0px;
+	z-index: -1;
+	position: relative;
+	top: -45px;
+}
+
+.big_hero_icon {
+	height: 60px;
+	width: 60px;
+	margin: 177px 0 0 215px;
+}
+
+#main_text_background {
+	background-color: #393939;
+	height: 405px;
+}
+
+.main_text_box {
+	color: #D3D3D3;
+	margin-top: 15px;
+}
+
+.big_hero_heading {
+	font-size: 35px;
+}
+
+.main_line {
+  	margin-top: 10px;
+  	border: 0;
+  	clear:both;
+  	display:block;
+	width: 280px;               
+	background-color: #6C6C6C;
+	height: 1px;
+}
+
+.all_age {
+	float: left;
+	width: 55px;
+	border: 1px solid #3BCF68;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 11px;
+	color: #3BCF68;
+	padding: 5px;
+	margin: 15px 10px 0 -13px;
+}
+
+.directors {
+	margin: 20px 0 0 20px;
+}
+
+.box_ratting {
+	margin: 15px 0 5px -17px;
+	width: 310px;	
+}
+
+.pre_text {
+	margin: 7px;
+	font-family: 'Roboto', monospace;
+}
+
+.main_text_description {
+	line-height: 15px;
+	margin: 10px 0 0 7px;
+}
+
+.same_features_button {
+	color: white;
+	font-size: 14px;
+	padding: 10px;
+	width: 150px;
+	border-radius: 4px;
+}
+
+.main_buttons {
+	height: 40px;
+	margin: 15px 0 5px -10px;
+}
+
+.youtube_button {
+	background-color: #DFB636;
+}
+
+.book_button {
+	background-color: #BB7B29;
+}
+
+#movies_bigbox {
+	background-color: #DFB636;
+	padding: 20px 65px 5px;
+	margin-top: -75px;
+}
+
+.img_movies {
+	height: 180px;
+	width: 150px;
+}
+
+object {
+	width: 100%;
+	height: 200px;
+}
+
+article {
+	padding: 60px;
+}
+
+.article_bold_headings {
+	margin: 15px 0;
+	font-size: 25px;
+}
+
+.book_your_ticket {
+	color: black;
+	font-size: 35px;
+}
+
+.nobold {
+	font-weight: normal;
+}
+
+.big_book_button {
+	height: 65px;
+	padding: 25px 20px;
+}
+
+.discount_text {
+	color: #BB7B29;
+	font-size: 13px;
+	margin-top: 20px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#news {
+	position: relative;
+	left: 65px;
+}
+
+.black_subheadings {
+	color: black;
+}
+
+.lorem_text {
+	margin-bottom: 70px;
+}
+
+.last_lines {
+	width: 570px;
+	position: relative;
+	top: -35px;
+	background-color: #D0D0D0;
+}
+
+.orange_text {
+	color: #E3C15D;
+}
+
+.last_pics {
+	width: 250px;
+	height: 250px;
+	margin-bottom: 30px;	
+}
+
+footer {
+	background-color: #F3F3F3;
+	padding: 30px;
+}
+
+.creator {
+	margin: 30px 0;
+}
